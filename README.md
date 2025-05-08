@@ -70,7 +70,7 @@
 
 ## 🛠 JSON 修補三大重點
 
-🔍 ① config.countries[] 加上 台灣  
+🔍 ① config.countries[] 加上 "TW", 
 按 `Ctrl + F`，搜尋關鍵字:  
 `"JP",`  
 修改範例:  
@@ -82,7 +82,7 @@
 ![搜尋 JP](cursor_img/5.png)  
 ![修改國家](cursor_img/6.png) 
 
-🔍 ② config.orgSearchUrl 中加入 TW  
+🔍 ② config.orgSearchUrl 中加入 TW%2C 
 按 `Ctrl + F`，搜尋關鍵字:  
 `&country=`  
 修改前:  
@@ -96,7 +96,7 @@
 📘 小知識: %2C 是逗號 , 的網址編碼格式  
 ![修改 orgSearchUrl](cursor_img/7.png) 
 
-🔍 ③ config.orgSearchCountryTags 加入 台灣  
+🔍 ③ config.orgSearchCountryTags 加入 "TW": [] 陣列 (如下) 
 按 `Ctrl + F`，搜尋關鍵字:  
 `"JP": [`  
 插入範例:  
