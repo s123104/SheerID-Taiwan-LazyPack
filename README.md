@@ -54,6 +54,7 @@
 🔹 點「選擇資料夾」後，按「允許」存取  
 
 ![存取提示](cursor_img/3.png)
+![允許貼上](cursor_img/4.png)
 
 ---
 
@@ -62,8 +63,6 @@
 🔹 點開左側的 `theme%3Flocale=en-US`  
 🔹 DevTools 下方會打開 Response 編輯器  
 🔹 按 `Ctrl + F`，依據 JSON 修補三大重點搜尋關鍵字貼上修改後的 JSON，若出現 `allow pasting` 提示，輸入 `allow pasting`  
-
-![允許貼上](cursor_img/4.png)
 
 ---
 
