@@ -43,8 +43,6 @@
 🔹 DevTools 下方會打開 Response 編輯器  
 🔹 按 `Ctrl + F`，依據 JSON 修補三大重點搜尋關鍵字貼上修改後的 JSON，若出現 `allow pasting` 提示，輸入 `allow pasting`  
 
-![允許貼上](cursor_img/4.png)
-
 ---
 
 ## 🛠 JSON 修補三大重點
@@ -58,6 +56,8 @@
 "TW",
 "KE",
 ```
+![允許貼上](cursor_img/4.png)
+![搜尋 JP](cursor_img/5.png)  
 
 🔍 ② config.orgSearchUrl 中加入 TW  
 按 `Ctrl + F`，搜尋關鍵字:  
@@ -66,11 +66,12 @@
 ```perl
 &country=PR%2CPS%2CPT%2CPW%2C...
 ```
-修改後（加在最前面）:  
+修改後（TW%2C加在最前面）:  
 ```perl
 &country=TW%2CPR%2CPS%2CPT%2CPW%2C...
 ```
 📘 小知識: %2C 是逗號 , 的網址編碼格式  
+![修改國家](cursor_img/6.png) 
 
 🔍 ③ config.orgSearchCountryTags 加入 台灣  
 按 `Ctrl + F`，搜尋關鍵字:  
@@ -82,9 +83,6 @@
   "qualifying_ps"
 ],
 ```
-
-![搜尋 JP](cursor_img/5.png)  
-![修改國家](cursor_img/6.png)  
 ![修改 orgSearchUrl](cursor_img/7.png)  
 ![修改 orgSearchCountryTags](cursor_img/8.png)
 
