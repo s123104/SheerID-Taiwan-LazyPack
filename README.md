@@ -4,14 +4,6 @@
 
 ---
 
-## 📂 GitHub 儲存庫資訊
-
-- **儲存庫名稱**：`SheerID-Taiwan-LazyPack`  
-- **連結**：你可以將此教學上傳至 GitHub，例如：`https://github.com/你的使用者名稱/SheerID-Taiwan-LazyPack`  
-- **用途**：提供一個簡單的懶人包，幫助台灣用戶在 SheerID 驗證頁面中添加「台灣」選項並解鎖學校欄位。  
-
----
-
 ## 🎯 教學目標
 
 - ✅ 顯示「台灣」選項於國家欄位
