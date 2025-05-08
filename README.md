@@ -20,8 +20,8 @@
 - 姓名（可填中文）、生日  
 - 信箱需與帳號一致  
 
--如果遇到要提交文件，請重新回到認證畫面重填(有機會不用驗證在學證明)，當初我是這樣用的，如果還是需要就要提交了
-🔗 [https://www.cursor.com/cn/students](https://www.cursor.com/cn/students) 
+- 如果遇到要提交文件，請重新回到認證畫面重填(有機會不用驗證在學證明)，當初我是這樣用的，如果還是需要就要提交了
+🔗 [https://www.cursor.com/cn/students](https://www.cursor.com/cn/students)  
 
 4️⃣ 選擇年訂閱，確認金額為 0，填寫信用卡資訊後出現「Apply Discount」 → 點擊即可免費獲得 Pro 版本！
 
