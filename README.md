@@ -20,6 +20,7 @@
    - 姓名（可填中文）、生日  
    - 信箱需與帳號一致  
    - 如果遇到要提交文件，請重新回到認證畫面重填（有機會不用驗證在學證明），若仍需提交則按提示操作
+   - ![填寫資訊頁面](cursor_img/3.jpg)
 
 4️⃣ 選擇年訂閱，確認金額為 0，填寫信用卡資訊後出現「Apply Discount」 → 點擊即可免費獲得 Pro 版本！
    - (記得先設定明年4月的提醒，要記得2026年4月底提前取消掉才不會到時候被扣一年的費用哦!!)
@@ -37,8 +38,9 @@
 
 ## 📘 步驟一：打開 DevTools 並尋找可修改的 JSON 回應
 
-🔹 開啟 Cursor 驗證頁面  
+🔹 開啟 Cursor 驗證頁面 (登入edu帳號後的填寫資訊頁面)
    - 🔗 [https://www.cursor.com/cn/students](https://www.cursor.com/cn/students)  
+   - ![填寫資訊頁面](cursor_img/3.jpg)
 🔹 按下 `F12` → 點 `Network`  
 🔹 按 `F5` 重新載入頁面  
 🔹 搜尋 `theme?locale=en-US`，你會看到兩筆 request  
