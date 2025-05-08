@@ -58,6 +58,7 @@
 "KE",
 ```
 ![搜尋 JP](cursor_img/5.png)  
+![修改國家](cursor_img/6.png) 
 
 🔍 ② config.orgSearchUrl 中加入 TW  
 按 `Ctrl + F`，搜尋關鍵字:  
@@ -71,7 +72,7 @@
 &country=TW%2CPR%2CPS%2CPT%2CPW%2C...
 ```
 📘 小知識: %2C 是逗號 , 的網址編碼格式  
-![修改國家](cursor_img/6.png) 
+![修改 orgSearchUrl](cursor_img/7.png) 
 
 🔍 ③ config.orgSearchCountryTags 加入 台灣  
 按 `Ctrl + F`，搜尋關鍵字:  
@@ -82,8 +83,7 @@
   "HEI",
   "qualifying_ps"
 ],
-```
-![修改 orgSearchUrl](cursor_img/7.png)  
+``` 
 ![修改 orgSearchCountryTags](cursor_img/8.png)
 
 ---
@@ -92,7 +92,7 @@
 
 貼上正確後，按 `Ctrl + S` 儲存，再 `F5` 重新整理頁面：  
 - 「台灣」出現在下拉選單  
-- 學校欄位解鎖，可選「國立台灣大學」  
+- 學校欄位解鎖，範例可選「國立台灣大學」  
 
 ![成功結果](cursor_img/9.png)
 
