@@ -34,6 +34,7 @@
 🔹 點「選擇資料夾」後，按「允許」存取  
 
 ![存取提示](cursor_img/3.png)
+![允許貼上](cursor_img/4.png)
 
 ---
 
@@ -56,7 +57,6 @@
 "TW",
 "KE",
 ```
-![允許貼上](cursor_img/4.png)
 ![搜尋 JP](cursor_img/5.png)  
 
 🔍 ② config.orgSearchUrl 中加入 TW  
