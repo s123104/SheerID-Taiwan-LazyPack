@@ -42,6 +42,7 @@
 🔹 按下 `F12` → 點 `Network`  
 🔹 按 `F5` 重新載入頁面  
 🔹 搜尋 `theme?locale=en-US`，你會看到兩筆 request  
+🔹 點選右鍵 → `Override content`  
 
 ![搜尋 request](cursor_img/1.png)
 
@@ -49,7 +50,6 @@
 
 ## 🟡 步驟二：啟用 Local Overrides 功能
 
-🔹 點選右鍵 → `Override content`  
 🔹 第一次使用會出現提示，點 `Select folder`  
 
 ![選擇資料夾](cursor_img/2.png)
